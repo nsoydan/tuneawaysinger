@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "249435154401",
+    "firebase_url": "https://tuneaway-cea72-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "tuneaway-cea72",
+    "storage_bucket": "tuneaway-cea72.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249435154401:android:aa0f66a53b89a1fd9814a0",
+        "android_client_info": {
+          "package_name": "com.tuneaway"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXP6qHIRn1RcCRPJ5osj-V5GiZ4Fq3zQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
